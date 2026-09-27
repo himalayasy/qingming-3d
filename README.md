@@ -35,3 +35,9 @@ python3 -m http.server 8765 --bind 127.0.0.1
 - 人物模型与音效：Kenney（kenney.nl），CC0，见 `models/Kenney-License.txt`、`audio/Kenney-License.txt`
 - 室内挂画：宋代绘画真迹图像，来自维基共享资源，公有领域（来源见 `models/paintings/paintings.json`）
 - 战鼓、风声、雷声等为 WebAudio 程序合成
+
+## 许可
+
+代码（`index.html` 等）以 [Apache License 2.0](LICENSE) 发布。
+
+上面列出的素材不在此列，各自沿用原许可：音乐 CC BY（使用时须署名 Kevin MacLeod）、Kenney 模型与音效 CC0、宋画图像公有领域。
